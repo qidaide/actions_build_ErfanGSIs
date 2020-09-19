@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
-  ROM_NAME: shenqimiui
+  ROM_NAME: miui_LAVENDER_V12.0.1.0
   TZ: Asia/Shanghai
 
 jobs:
