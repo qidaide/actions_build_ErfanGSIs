@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
-  ROM_NAME: miui_LAVENDER_V12.0.1.0
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QEECNXM/miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip
+  ROM_NAME: miui12
   TZ: Asia/Shanghai
 
 jobs:
