@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QDGCNXM/miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
-  ROM_NAME: MIUIa
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
+  ROM_NAME: shenqimiui
   TZ: Asia/Shanghai
 
 jobs:
