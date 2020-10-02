@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://112.19.49.1/bigota.d.miui.com/8.11.22/miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fdownload-308.html
-  ROM_NAME: miui
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QDGCNXM/miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
+  ROM_NAME: miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
   TZ: Asia/Shanghai
 
 jobs:
